@@ -36,7 +36,7 @@ stacy@homelab:~$ git log --graph
 stacy@homelab:~$ history
 ```
 
-- **2024 to now.** Part-time Linux consulting, WebFrat. Troubleshooting, small Ansible playbooks, Bash tooling.
+- **2024 to now.** Linux consulting, WebFrat. Troubleshooting, small Ansible playbooks, Bash tooling.
 - **2021 to 2024.** Product Support Engineer, IBM SevOne. Production incidents on a monitoring platform built on Kubernetes, MySQL and Kafka: MySQL split-brain and replication recovery, k3s certificate failures, disk and RAID faults.
 - **2019 to 2021.** Linux Systems Administrator, InMotion Hosting. Tier 1 to Tier 2 within a year.
 - **2017 to 2019.** Junior System Administrator, Puretech.
